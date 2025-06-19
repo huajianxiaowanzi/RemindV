@@ -60,8 +60,6 @@
 
 ### 本地部署（FastAPI + SQLite）
 
-#### 1. 克隆项目
 
-```bash
-git clone https://github.com/yourname/remindor.git
-cd remindor
+[![Star History Chart](https://api.star-history.com/svg?repos=huajianxiaowanzi/RemindV&type=Date)](https://star-history.com/#huajianxiaowanzi/RemindV&Date)
+
